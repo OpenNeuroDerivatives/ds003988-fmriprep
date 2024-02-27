@@ -1,0 +1,5 @@
+{
+  "RawSources": [
+    "/node_tmp/work_dir/fmriprep/ds003988_sub-16/fmriprep_23_2_wf/sub_16_wf/bold_task_read_run_5_wf/bold_fit_wf/hmc_boldref_wf/gen_avg/sub-16_task-read_run-5_bold_average.nii.gz"
+  ]
+}
